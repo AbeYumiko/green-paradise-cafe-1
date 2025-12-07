@@ -1,0 +1,34 @@
+export const IMAGES = {
+  heroBg: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCS_OpnD7sCSMWbCAKacB9sa_7KlBbzPlrmDXE-SUC8tCXlJouWC49E3oKokPI8qbMqA_EBH3E27VZFkcoaEpfiylOlReEgPmdWj1NkpkmlPmQI40n0xjyx1WTEJBs9JKKR4CUSszUk4AFdsbT5DBv-qMoJPaOT7Q737brHnn-YfijdxZh2KUNXyDc9SPdD6an5KaGhp8pmXn7JkaTKOLSrUjtYzBRYhUoNQiMZi75P1R4H3vPvi-9D2P7Pd1QUVxcbUhEWq5RNC2o',
+  plantSquare: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCqUipOr1lzA4KCEs4OBG1fBFnVqT8aLNh9zayactlPL6aaOBGsJ-BsMhPzyqBY5oT1dqQq3xO1U8NNxp52YxHW3clfDQ95cFks2Qiwzp9Jmwr48opsR57hMhYE7N-iIWGY0u8KZhVjvzS9OtGa6cXzJpXJtKRV8YHR7wrg2geMGe-q8kYb-32MhrYW8DL9hESN9M7HuABjs5afyj0aXvlrZw4_2f3UXbdu0DCnqRf_UpqeHUkikszCh_-5UsswC1fuLs6g0e-qnvo',
+  fiddleLeaf: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDXIaDPkMZHiY3rN6NPfNmlEVqP5clMrPEVVGAptE0hlWmAHwL3p5-dsAcBbrT3MDzmV0HIDyt76zF0kGZwqonxmaYxib7j6pDEUH4-m76leD9VNR_sObvPCCOKc9MkHI3rf6mp0039i222blGLzif-_o60CJab_r6PR5-5yrEK0_kUnTRjyqmwr91F7Gva6WeoaviCh35VllHBQIRxomcHCGSNZdxgmoR60Bq6zMLHHFjWFZcnsFZ2-0JXBPkQZ918NrLywwUoHus',
+  handPlant: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBF_t6mlURSD1Gg0mNprkkKfJzxqOyi7xBEFw7G-xtk1z-WF-MjdPfom02BBXctrG5RAd1PYKTigBjD3LzQTAzh9twBJeiyv-LOxTvvptFhu0AG8eVRaF4P3VbTF7sjSBeage8hFae3azjMiF3ViGxzkZ8ehQIzyM2hTxCurrWukf9FNIYzjyU58kz-OijBV69YSnwrmj_34V-Fn-wnxqCEeY3jhn6P14mcWlyVXTGiucWSwCT1tfn-B1-vjqeNJG0Fp7t1j0FW5Jc',
+  featureTexture: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDEijcqEaoEYaTj8fPmwx8G8dL-IntFxwwhSRm2SumB16BrQQ4zZTtlGu_bUonRCquYB3T9n4l-nQo_8x0ImqwyJ8CJ7t80X6lEIhJ8AXK6oJuwbFn-v_6uSpSha9J5SLsS6QvO-K4uIMp9o7gVpOcRIJPKkoEaxB5kbq4YOlCM6ioIsesgViBMuTQfpMdMS6BXDBpr1noecIE2JmSdF9oU0pGgbzqpkMxudDmTbpCe3fabwuBDLqm3l5c1FaREKSuGvlSTcNPzars',
+  featureDark: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBYqw208kwT53nqqswEA8nHvaoU29NxuWCgEvbfuEXq2uQwpsOpatWw2aMVwWKKYUNZO3ZaQaPsJakI05424N-oKlAzKbd39uKhLbo0DejcInFcw6_dMXyh24X4WUhpNCUJsuCW91v2LIO4rnrVdcD36DFcMFG3W1EhDbrctg7u0F1IOI-zFYOov0AM_7K5tJ9qX3uTcQJMYpVvImL5QWgGxdBG2bUZXAIN21GZXBsEqKvxQhi1d0UMDmWD0cGM1egciHDFJXnLBzk',
+  featureMonstera: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDudKoWhp85xvBFFP4kb4L6MY6sRzY0THKUXnHlpfciaMb-c9GejWIfasvSUThut4xmZLXpcc10p_1ZpxuFC2NJQ3XfF3sfMYXtZcO-K3kWDhBKJq1tKAP_9cHFsKB5dnbrek1iL5M-Z_81myskAOIB50z1qxIB3cRMeOflL06OpCzsotbK-aHX3IHBIM9MybPvH2sn0nIoXlovtbnxlP_G3dAU_Sotd2xOS3sdAm9sS834Fca0EctzXZUHp0l8l-5ucm4uaw6WEBs',
+  featureDense: 'https://lh3.googleusercontent.com/aida-public/AB6AXuADp9pHpKk1WZU4LoQCgh2nK4JS5e_n6bbs7tVuyQ9sXzcHqauY8UKuisGz-i2V0fTJSxrNPOSdzNpQsBdw8Uq5i0pTgAUx59jqZEnzU5F8EgSUd8oSpH28BiJMjo7pL3GLrY0Q-SkqZBd4SuHgO6p2KBqyHVMFhvINHO7maDyc94hSEs2eJnFMH97rYcZKFP9hxiuJLEu4uYnfhP1cwOAwnOMphYQS7T__jIofgZcFheETfe5-GRnGEXqwcgutW8TkLjw7jIx0THw',
+  greenhouse: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBQAESCJLaVMqdkJDMTaXGTPljiDOOzM5FWlia9Y5u_5wolLrWIrr0kPVzD0f3esLtxfaA4X5gFJYbjd_Jq92p3VvEVXTwnB14ACCzum-Hmzgw115o72JW2fAvT17O9-erE1XFK5DhTNSbaqnnCpwBu2kwksuMtEyoQEhdtPwo-lvBIUZB1CXXQSQ1gE_YTOwzasZI8fXMW9_xPblXECQF3boO3SwD2Iw8FZXO_47S244VZCPpyzxUemgbQKFmWo675GSZwbFyps4E',
+  menuHero: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDVLkVHmfcZTRzTbhFkI7qulsZDVlK6FsNuLTKnx1iMv0CtNyLDgQYZi5kwsi5RItV_Nv6bWAy_V_DxHsniJXOywAZWAXQa728YDO-Jy_xtgrl6hdIEXnww3vjELrmK9oFwCwnkzW9p6gtDImszaTD7S03cXVDkPZYT7dsJ8huXshWCLtkGs_D-qXRvHVvF1Q2emMw-FUiTrRoq2-sat8adhCctiucbWoZEoHslL7wzkzm7L1fNEeiwVEmTgtiFYCuFrZoJMotr4_8',
+  icedTea: 'https://lh3.googleusercontent.com/aida-public/AB6AXuB4G2i4Xm9Udy8YW3KQMCQ9zcFZ0D9d7cZKde9ZdvRkoI_zrgpV9-C4TINYpw4204WpepkBf4Axfsff9EOSHQNyicbryzp_e3kf40R2o7PqZquujnaQXCrdm2HeSFzI2KLB4GqMbOe3McHW3MTBufDKP7K70n_FP8ZUTPxq8drI8kLCKAHjoQ5NIQPEgwO61fxG7nFiB7SB7pI8guyTiM74I7U3DDCU3ntZlQBH6OFx9bNRp0dhAzCNwjZr6sE0_HPNxWAcpfUxBeQ',
+  map: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBegSUexpiAe8C4JG8ZzjRHQR5yD92ngCQzagh04oDJaF-Dnekp3N30s0wwTeUDmq5RqGWTHI66Sz4PdaX4NnioTKt6eyJRlB3ChS2HxpF5km2HJZ_jUqqaivnMyDDb4Jacsye0I6nU4NRdmKF-G9ftHsGM29R-G-nC8tlLLUgV2fycyBwWElp9_EaUq551pT7kqol8NXBEW19uQY1rGLTwYRoThvfvd7XxkjQBELkQGnHBhzJWa41sOQyUJ7IZtqJpfxAleZjmLP4',
+  pourOver: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBvyE_wGI7SCefXH3l5yam5TSuDwQpGEoJjqCLCg2pGkpZSXm3VrGPIe3_1tpkS1WKuqhMMrXjDYA2ted2h3cFuQRmQEzBEL5GizM2NbXKQ3-jStBP29ImOhe1rolst87Ftf943R9Ktx-HN5EjixWwcMMa8odrTUgxrKq6KR05Y26qlzLR_vGvph6TdgyoO-XMMF45QWd_XbRSsTGN9taQEhso4BnMjGP5Eg8zm4yi_9Zpf6_C05SQ9WDFuxvM1QsnOrWAwWJ4lPAI',
+  latteArt: 'https://lh3.googleusercontent.com/aida-public/AB6AXuA6IDg3eOv0hHydd_HYo8vmMP5OSWdtPO3gpbMGLOPxGT3UVrHzWC8P6OCMBdvHp3yKusVaHi3Bx_K4vp2l7h1oU7IsBnVi5sAwe51x8auN8kbYTxJnSddMCdv9jkMtMl4D1iDSTakOB2-bfrKT18Ub5HrQxYr_VLboXkZLl4zHjSONA01xOQwSm_odrY4DR3mMOp0PvdLwBY-lDZPG6MVlvJiLO3SqWcRqNwwD9e6ZJQXV6veWM24-HunTGFcpTzPuMrYULzGBhLk',
+  modernCafe: 'https://lh3.googleusercontent.com/aida-public/AB6AXuA0Xp5Ikg8-hEcHEpNIqx1D7-bxilMvWkQ8da51liO9SGIjLq1O00LmRg_Uff6ZY1j8zsnUXDTn0B-XsRHqzzn7AWQuYhIshd1nJdousI-DkwEnJaycLrn17Zp9TuhYMcx5pfVGJpVUaTOoG1q_vKDBkd_4F-fv57rxlL_KZh6Z75NraEAfazS-89FmQ_eIDckHaZKqdRqsDT5HdUWr2uyrXxzAI7jzlF2YHTduorJTCmuwPthhl0j4fnLySw9edCNAorsEp2HG2qY',
+};
+
+export const MENU_ITEMS = [
+  { name: 'Botanical Brew', description: 'Our signature house blend, smooth and balanced.', price: '$4.50', category: 'coffee' },
+  { name: 'Lavender Latte', description: 'Espresso with steamed milk and a hint of lavender.', price: '$5.50', category: 'coffee' },
+  { name: 'Rose Cappuccino', description: 'Rich espresso, steamed milk foam, and delicate rose syrup.', price: '$5.75', category: 'coffee' },
+  { name: 'Moss Mocha', description: 'A decadent mix of espresso, dark chocolate, and matcha.', price: '$6.00', category: 'coffee' },
+  { name: 'Classic Americano', description: 'Espresso shots topped with hot water.', price: '$4.00', category: 'coffee' },
+  { name: 'Herbal Cold Brew', description: 'Slow-steeped cold brew infused with rosemary and mint.', price: '$5.25', category: 'coffee' },
+  
+  { name: 'Jade Oolong', description: 'Premium loose leaf oolong tea.', price: '$4.50', category: 'tea' },
+  { name: 'Chamomile Citrus', description: 'Relaxing herbal blend with lemon notes.', price: '$4.00', category: 'tea' },
+
+  { name: 'Avocado Bloom Toast', description: 'Sourdough toast with avocado, edible flowers, and chili flakes.', price: '$12.00', category: 'meals' },
+  { name: 'Quinoa Garden Bowl', description: 'Mixed greens, quinoa, roasted vegetables, and lemon-herb vinaigrette.', price: '$14.50', category: 'meals' },
+  { name: 'Mushroom Flatbread', description: 'Crispy flatbread with wild mushrooms, mozzarella, and truffle oil.', price: '$15.00', category: 'meals' },
+  { name: 'Green Goddess Soup', description: 'A vibrant, creamy soup of broccoli, spinach, and herbs.', price: '$9.00', category: 'meals' },
+];
